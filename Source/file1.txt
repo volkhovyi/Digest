@@ -1,0 +1,32 @@
+ЕКОНОМІКА
+0718 http://www.finanz.ru/novosti/aktsii/promyshlennost-rf-vozobnovila-spad-1002182133 економічний розвиток, економічна криза, статистика
+
+СОЦІАЛКА
+0718 http://theins.ru/korrupciya/64148 корупція, Путін
+0718 https://lenta.ru/news/2017/07/18/consumer/ рівень життя, статистика
+0718 https://www.vedomosti.ru/economics/articles/2017/07/18/724183-sotsialnih-viplat соціальна політика, рівень життя, фінанси, статистика
+
+ВНУТРІШНЯ ПОЛІТИКА
+0718 https://meduza.io/news/2017/07/18/human-rights-watch-vmeshatelstvo-gosudarstva-v-rabotu-smi-v-rossii-na-urovne-nevidannom-s-raspada-sssr ЗМІ, права людини, репресії
+0718 https://www.svoboda.org/a/28618961.html Путін, зовнішня політика, двосторонні відносини, зовнішньополітичні прогнози
+0718 http://www.dsnews.ua/world/korol-i-shut-mozhet-li-nikita-mihalkov-stat-prezidentom-18072017133000 Путін, вибори, персоналії, політичні прогнози
+
+ГУМАНІТАРНІ
+0718 https://lenta.ru/articles/2017/07/18/iamabeliver/ світогляд, партії, РПЦ
+
+МІЖНАРОДНА БЕЗПЕКА
+
+МІЖНАРОДНІ ЗВ'ЯЗКИ (ЗОВНІШНЯ ПОЛІТИКА І ТОРГІВЛЯ)
+0718 http://www.liga.net/opinion/342857_rossiysko-germanskiy-roman.htm двосторонні відносини, історія, енергетика, санкції
+
+УКРАЇНСЬКО-РОСІЙСЬКІ
+
+ОКУПОВАНІ ТЕРИТОРІЇ
+0718 https://lenta.ru/articles/2017/07/18/novorussia/ окуповані території, Донбас, провокація, російсько-українські відносини
+0718 https://lenta.ru/articles/2017/07/18/malorossia/ окуповані території, Донбас, провокація, Мінські домовленості
+0717 https://www.znak.com/2017-07-18/v_kremle_i_okolo_kremlya_schitayut_chto_proekt_malorossii_polnaya_samodeyatelnost_zaharchenko окуповані території, Донбас, провокація, Кремль
+0717 http://theins.ru/opinions/64568 тероризм, Донбас, російська агресія
+0717 https://lb.ua/world/2017/07/17/371684_kovarnoe_alibi.html тероризм, Донбас, російська агресія
+0717 https://www.theguardian.com/commentisfree/2017/jul/17/flight-mh17-russian-london-money-laundering тероризм, Донбас, російська агресія, санкції
+0718 http://www.dsnews.ua/politics/stsenariy-putina-kak-povliyaet-na-ukrainu-proekt-malorossiya--18072017153000 Путін, вибори, окуповані території, Донбас, провокація, російсько-українські відносини, зовнішньополітичні прогнози
+0718 https://www.depo.ua/ukr/politics/scho-oznachaye-malorosiya-zaharchenka-20170718607707 окуповані території, Донбас, провокація, російсько-українські відносини, зовнішньополітичні прогнози
